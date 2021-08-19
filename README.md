@@ -1,3 +1,2 @@
 # BIT-amid-dynamic-obstacles
-MS Project
-This is my MS project's code
+This is my MS project: it uses BIT* to deal with dynamic obstacles( more than 20) in Portsmouth Harabor
