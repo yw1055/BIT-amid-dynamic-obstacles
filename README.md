@@ -13,3 +13,4 @@ https://user-images.githubusercontent.com/54214597/202815823-0cb8c767-4650-4d94-
 
 https://user-images.githubusercontent.com/54214597/202815873-e667f850-00f1-456e-8b79-70674302874b.mp4
 
+[MSProBIT-2.pdf](https://github.com/yw1055/BIT-amid-dynamic-obstacles/files/10045360/MSProBIT-2.pdf)
